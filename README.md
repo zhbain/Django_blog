@@ -11,7 +11,6 @@ python manage.py runserver
 ```
 
 ## 实现功能
-- Django-bootstrap-admin优化后台管理, Pure只做前端
 - markdown和代码高亮
 - 按标签分类
 - 按标题搜索
